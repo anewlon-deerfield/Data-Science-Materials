@@ -14,7 +14,7 @@ Film,Year,Script Type,Primary Genre,Genres,Distributor,Rotten Tomatoes Audience 
 21 Jump Street,2012,adaptation,nan,"action, comedy, crime",nan,82,85,69,77,75,36302612,36.3,138447667,138.45,63.14,63137661,201585328,202,42,479.97,86.43
 21 and Over,2013,original screenplay,nan,Comedy,nan,47,27,34,31,54,8754168,8.75,25682380,25.68,22.38,22383292,48383672,48,13,372.18,67.34
 22 Jump Street,2014,adaptation,nan,"action, comedy, crime",nan,78,85,71,78,74,57071445,57.07,191719337,191.72,139.61,139614539,331333876,331,50,662.67,114.14
-3 Days to Kill,2014,original screenplayÃ,nan,"action, drama, thriller, crimeÃ",nan,44,28,40,34,57,12242218,12.24,30697999,30.7,21.9,21900000,52597999,53,28,187.85,43.72
+3 Days to Kill,2014,original screenplayÃÂ,nan,"action, drama, thriller, crimeÃÂ",nan,44,28,40,34,57,12242218,12.24,30697999,30.7,21.9,21900000,52597999,53,28,187.85,43.72
 30 Days of Night,2007,adaptation,horror,horror,nan,56,50,53,52,65,15951902,15.95,39568996,39.57,35.53,35526091,75095087,75,32,234.67,49.85
 30 Days of Night,2007,adaptation,horror,horror,nan,56,50,53,52,65,15951902,15.95,39568996,39.57,35.53,35526091,75095087,75,32,234.67,49.85
 30 Minutes or Less,2011,original screenplay,nan,"action, comedy, crime",nan,48,43,49,46,56,13330000,13.33,37050000,37.05,3.49,3490000,40540000,40.54,28,144.79,47.61
@@ -36,12 +36,12 @@ A Cure for Wellness,2017,original screenplay,nan,horror,nan,41,41,47,44,70,43569
 A Dangerous Method,2011,adaptation,nan,"biography, thriller",nan,89,79,76,78,62,170000,0.17,5700000,5.7,21.76,21760000,27460000,27.46,20,137.3,0.85
 A Dog's Purpose,2017,adaptation,nan,"comedy, drama",nan,73,33,43,38,59,18222810,18.22,64321890,64.32,131.88,131878234,196200124,196.2,22,891.82,82.83
 A Dog's Way Home,2019,adaptation,nan,"adventure, drama, family",Sony Pictures,73,62,50,56,51,11251263,11.3,42004346,42,33.1,33054369,75058715,75.1,18,416.99,62.78
-A DogÃ¢ÂÂs Journey,2019,adaptation,nan,drama,Universal Pictures,92,50,43,47,70,8030085,8,22546590,22.5,49.2,49200000,71746590,71.7,22,326.12,36.36
+A DogÃÂ¢ÃÂÃÂs Journey,2019,adaptation,nan,drama,Universal Pictures,92,50,43,47,70,8030085,8,22546590,22.5,49.2,49200000,71746590,71.7,22,326.12,36.36
 A Good Day to Die Hard,2013,sequel,nan,"Action, Thriller, Crime",nan,41,14,28,21,47,24834845,24.83,67349198,67.35,237.3,237304984,304654182,305,92,331.15,26.99
 A Haunted House,2013,original screenplay,nan,"Horror, Comedy",nan,51,10,20,15,51,18101682,18.1,40041683,40.04,20.1,20100000,60141683,60,3,2405.67,724.07
 A Hidden Life,2019,based on a true story,nan,"biography, drama, romance",Fox Searchlight,71,83,79,81,88,50383,0.1,1015637,1,1,1015637,2031274,2,8,25.39,1.25
 A Madea Family Funeral,2019,original screenplay,nan,"comedy, drama",Lionsgate,31,11,39,25,40,27062332,27.1,73257045,73.3,1.5,1524954,74781999,74.8,20,373.91,135.5
-A Million Ways to Die in the West,2014,original screenplayÃ,nan,"comedy, western",nan,40,33,44,39,51,16797385,16.8,43139300,43.14,43.27,43268783,86408083,86,40,216.02,41.99
+A Million Ways to Die in the West,2014,original screenplayÃÂ,nan,"comedy, western",nan,40,33,44,39,51,16797385,16.8,43139300,43.14,43.27,43268783,86408083,86,40,216.02,41.99
 A Nightmare on Elm Street,2010,remake / reboot,nan,"horror, mystery, thriller",nan,40,13,35,24,53,32900000,32.9,63080000,63.08,52.59,52590000,115670000,115.67,35,330.49,94
 A Perfect Getaway ,2009,original screenplay,nan,"adventure, mystery, thriller",nan,50,61,63,62,63,5900000,5.9,15500000,15.5,7.33,7330000,22830000,22.83,14,163.07,42.14
 A Quiet Place,2018,original screenplay,nan,horror,nan,83,95,82,89,75,50203562,50.2,188024361,188,145,144559086,332583447,3326,17,1956.37,295.32
@@ -95,7 +95,7 @@ American Gangster,2007,based on a true story,crime,"crime, drama",nan,87,80,76,7
 American Hustle,2013,based on a true story,nan,"Drama, History, Thriller, Crime",nan,74,93,90,92,75,740455,1,150117807,150,101,101054000,251171807,251,40,627.93,1.85
 American Made,2017,original screenplay,nan,"crime, thriller",nan,79,87,65,76,68,16776390,16.78,51338325,51.34,83.52,83524593,134862918,134.86,50,269.73,33.55
 American Reunion,2012,sequel,nan,comedy,nan,63,44,49,47,69,21514080,21.51,57011521,57.01,177.98,177978063,234989584,235,50,469.98,43.03
-American Sniper,2014,based on a true storyÃ,nan,"action, biography, drama, war",nan,86,73,72,73,66,89269066,89.27,348295276,348.3,193.4,193400000,541695276,542,59,918.13,151.3
+American Sniper,2014,based on a true storyÃÂ,nan,"action, biography, drama, war",nan,86,73,72,73,66,89269066,89.27,348295276,348.3,193.4,193400000,541695276,542,59,918.13,151.3
 American Ultra,2015,original screenplay,nan,"action, comedy",nan,51,45,50,48,64,5454284,5.45,14440985,14.44,1,1000000,15440985,15,28,55.15,19.48
 Amsterdam,2022,nan,comedy,"drama, history, mystery, thriller",Walt Disney Studios Motion Pictures,62,32,48,40,52,6444896,6.4,14947969,14.9,14.5,14452857,29400826,29.4,80,36.75,8.06
 An Education,2009,adaptation,nan,drama ,nan,78,94,85,90,79,760000,0.76,12570000,12.57,13.52,13520000,26090000,26.09,7.5,347.87,10.13
@@ -158,12 +158,12 @@ Beginners,2011,based on a true story,nan,"comedy, romance",nan,80,84,81,83,73,14
 Ben-Hur,2016,adaptation,nan,Drama,nan,61,25,38,31.5,45,11203815,11.2,26410477,26.41,67.65,67650834,94061311,94.06,100,94,11.2
 Beowulf,2007,original screenplay,animation,animation,nan,50,71,59,65,63,27515871,27.52,82195215,82.2,114.07,114068876,196264091,196,150,130.84,18.34
 Beowulf,2007,original screenplay,animation,animation,nan,50,71,59,65,63,27515871,27.52,82195215,82.2,114.07,114068876,196264091,196,150,130.84,18.34
-Big Eyes,2014,based on a true storyÃ,nan,drama,nan,70,72,62,67,75,3001738,3,14482031,14.48,14.77,14771135,29253166,29,10,292.53,30.02
+Big Eyes,2014,based on a true storyÃÂ,nan,drama,nan,70,72,62,67,75,3001738,3,14482031,14.48,14.77,14771135,29253166,29,10,292.53,30.02
 Big Hero 6,2014,adaptation,nan,"action, adventure, sci-fi, comedy, animation, family",nan,92,89,74,82,80,56215889,56.22,222431643,222.43,429.6,429600000,652031643,652,165,395.17,34.07
 Big Miracle,2012,adaptation,nan,romance,nan,64,74,61,68,59,7760205,7.76,20157300,20.16,4.56,4561915,24719215,25,40,61.8,19.4
 Big Stone Gap,2015,adaptation,nan,"romance, comedy",nan,75,35,39,37,50,362422,0,1009301,1,0,0,1009301,1,3.5,28.84,10.35
 Bill & Ted Face the Music,2020,original screenplay,adventure,nan,Orion Pictures,65,82,65,74,60,1125007,1.1,3439660,3.4,2.8,2834367,6274027,6.2,25,25.1,4.4
-Birdman,2014,original screenplayÃ,nan,"drama, comedy",nan,79,93,88,91,79,424397,0.42,42340598,42.34,60.87,60874496,103215094,103,18,573.42,2.36
+Birdman,2014,original screenplayÃÂ,nan,"drama, comedy",nan,79,93,88,91,79,424397,0.42,42340598,42.34,60.87,60874496,103215094,103,18,573.42,2.36
 Birds of Prey,2020,original screenplay,action,nan,Warner Bros. Pictures,78,78,60,69,31,33010017,33,84158461,84.2,116.8,116847091,201005552,201,143.2,140.37,23.04
 Birth of the Dragon,2017,original screenplay,nan,action,nan,72,23,35,29,45,2702430,2.7,6901965,6.9,0,0,6901965,6.9,31,22.26,8.72
 BlacKkKlansman,2018,based on a true story,nan,"thriller, suspense",nan,79,95,83,89,76,10845330,10.8,32316575,32,9,9325905,41642480,416,15,277.62,72.3
@@ -179,7 +179,7 @@ Blade Runner 2049,2017,sequel,nan,sci-fi,nan,81,87,81,84,84,32753122,32.75,91366
 Blades of Glory,2007,original screenplay,comedy,"sports, comedy",nan,68,69,64,67,70,33014202,33.01,118594548,118.59,27.11,27114094,145708642,146,61,238.87,54.12
 Blades of Glory,2007,original screenplay,comedy,"sports, comedy",nan,68,69,64,67,70,33014202,33.01,118594548,118.59,27.11,27114094,145708642,146,61,238.87,54.12
 Blair Witch,2016,sequel,nan,Horror,nan,34,36,47,41.5,50,9576057,9.58,20777061,20.78,24.35,24352790,45129851,45.13,5,903,191.52
-Blended,2014,original screenplayÃ,nan,comedy,nan,64,14,31,23,42,14284031,14.28,46294610,46.29,80.5,80500000,126794610,127,40,316.99,35.71
+Blended,2014,original screenplayÃÂ,nan,comedy,nan,64,14,31,23,42,14284031,14.28,46294610,46.29,80.5,80500000,126794610,127,40,316.99,35.71
 Blinded by the Light,2019,based on a true story,nan,drama,Warner Bros. Pictures,91,89,71,80,68,4333305,4.3,11901145,11.9,6.1,6118053,18019198,18,15,120.13,28.67
 Blockers,2018,original screenplay,nan,comedy,nan,50,83,69,76,62,20556350,20.6,59839515,60,34,33835271,93674786,937,21,446.07,97.89
 Bloodshot,2020,adaptation,action,nan,Sony Pictures,78,31,44,38,51,9176695,9.1,12561824,12.6,27.2,27299294,39861118,39.8,45,88.58,20.22
@@ -189,7 +189,7 @@ Bohemian Rhapsody,2018,based on a true story,nan,drama,nan,90,62,49,56,82,510611
 Bombshell,2019,based on a true story,nan,"biography, drama",Lionsgate,83,66,65,66,63,319157,0.3,18109144,18.1,0.2,228919,18338063,18.3,32,57.31,0.94
 Bones and All,2022,nan,drama,"horror, romance",Metro-Goldwyn-Mayer (MGM),62,82,74,78,70,121004,0.1,7834907,7.8,6.3,6284369,14119276,14.1,20,70.6,0.61
 Booksmart,2019,original screenplay,nan,comedy,United Artists Releasing,77,97,84,91,43,6933620,6.9,22680962,22.7,2.2,2163028,24843990,24.8,6,414.07,115
-Boyhood,2014,original screenplayÃ,nan,drama,nan,82,98,100,99,77,387618,0.39,25352281,25.35,19.14,19143000,44495281,44,4,1112.38,9.69
+Boyhood,2014,original screenplayÃÂ,nan,drama,nan,82,98,100,99,77,387618,0.39,25352281,25.35,19.14,19143000,44495281,44,4,1112.38,9.69
 Brahms: The Boy II,2020,sequel,drama,nan,STX Entertainment,44,10,29,20,43,5823006,5.8,12611536,12.6,7.7,770000,21311536,21.3,10,213.12,58
 Brave,2012,original screenplay,nan,"animation, action, adventure",nan,76,78,69,74,72,66323594,66.32,237283207,237.28,301.7,301700000,538983207,539,185,291.34,35.85
 Breaking In,2018,original screenplay,nan,"thriller, suspense",nan,32,27,42,35,39,17630285,17.6,46383120,46,5,4545500,50928620,509,6,848.81,293.84
@@ -197,14 +197,14 @@ Breakthrough,2019,adaptation,nan,drama,20th Century Fox,81,61,46,54,68,11282333,
 Bride Wars ,2009,original screenplay,nan,"comedy, romance",nan,56,11,24,18,37,21100000,21.1,58750000,58.75,55.95,55950000,115150000,115.15,30,383.83,70.33
 Bridesmaids,2011,original screenplay,nan,"comedy, romance",nan,77,90,75,83,72,26250000,26.25,169110000,169.11,119.28,119280000,288390000,288.39,32.5,887.35,80.77
 Bridge of Spies,2015,based on a true story,nan,"thriller, history",nan,98,92,81,87,80,15371203,15.37,72232000,72.23,92.1,92100000,164332000,164,40,410.83,38.43
-Bridget JonesÃ¢ÂÂs Baby,2016,sequel,nan,"romance, comedy",nan,75,77,59,68,72,8571785,8.57,24139805,24.14,160.02,160015368,184155173,184.16,35,526,24.49
+Bridget JonesÃÂ¢ÃÂÃÂs Baby,2016,sequel,nan,"romance, comedy",nan,75,77,59,68,72,8571785,8.57,24139805,24.14,160.02,160015368,184155173,184.16,35,526,24.49
 BrightBurn,2019,original screenplay,nan,horror,Sony Pictures,67,57,44,51,64,7845658,7.8,17259427,17.3,15.6,15592982,32852409,32.9,6,547.54,130
 Brittany Runs a Marathon,2019,original screenplay,nan,drama,Amazon Studios,87,89,72,81,56,180711,0.2,7136342,7.1,0.3,250420,7386762,7.4,14,52.76,1.43
 Brooklyn ,2015,adaptation,nan,Drama,nan,87,97,87,92,80,3946667,4,38322743,38.32,23.75,23753398,38322767,38.32,11,348,35.88
 Brooklyn's Finest,2010,original screenplay,nan,"crime, thriller",nan,47,42,43,43,54,13400000,13.4,27160000,27.16,9.28,9280000,36440000,36.44,17,214.35,78.82
 Bros,2022,nan,comedy,romance,Universal Pictures,90,88,72,80,41,4854125,4.9,11628165,11.6,3.2,3203632,14831797,14.8,22,67.42,22.06
 Brothers ,2009,remake / reboot,nan,"thriller, war",nan,62,61,58,60,73,9500000,9.5,28500000,28.5,14.77,14770000,43270000,43.27,26,166.42,36.54
-BrÃÂ¼no ,2009,original screenplay,nan,comedy,nan,48,68,54,61,59,30600000,30.6,60100000,60.1,78.75,78750000,130800000,130.8,42,311.43,72.86
+BrÃÂÃÂ¼no ,2009,original screenplay,nan,comedy,nan,48,68,54,61,59,30600000,30.6,60100000,60.1,78.75,78750000,130800000,130.8,42,311.43,72.86
 Bullet Train,2022,nan,action,thriller,Sony Pictures,76,53,49,51,71,30030156,30,103368602,103.4,135.2,135166361,238534963,238.5,85.9,277.69,34.96
 Bumblebee,2018,sequel,nan,"sci-fi, action",nan,79,93,67,80,76,21654047,21.7,97128140,97,192,192000000,289128140,2891,135,214.17,16.04
 Buried,2010,original screenplay,nan,"mystery, thriller",nan,63,86,65,76,72,103000,0.1,1040000,1.04,18.11,18110000,19150000,19.15,2,957.5,5.15
@@ -212,7 +212,7 @@ Burlesque,2010,original screenplay,nan,"musical, romance",nan,66,36,47,42,66,119
 Burnt,2015,original screenplay,nan,comedy,nan,89,28,42,35,44,5002521,5,5002521,5,4.58,4577251,9579772,10,37,25.89,13.52
 By The Sea,2015,original screenplay,nan,drama,nan,44,32,44,38,68,96250,0.1,538460,0.54,2.02,2017065,2555525,3,10,25.56,0.96
 CHiPs,2017,adaptation,nan,"action, comedy",nan,45,17,28,23,42,7722802,7.72,18600152,18.6,8.2,8200000,26800152,26.8,25,107.2,30.89
-CafÃÂ© Society,2016,original screenplay,nan,Drama,nan,60,70,64,67,69,359289,0.36,11103205,11.1,0.95,31909548,12048652,12.05,30,40,1.2
+CafÃÂÃÂ© Society,2016,original screenplay,nan,Drama,nan,60,70,64,67,69,359289,0.36,11103205,11.1,0.95,31909548,12048652,12.05,30,40,1.2
 Call Me By Your Name,2018,"adaptation, sequel",nan,drama,nan,85,95,93,94,78,1437889,1.4,18095701,18,24,23603117,41698818,417,3.5,1191.39,41.08
 Captain America: Civil War,2016,sequel,nan,Action,nan,89,90,75,82.5,83,179139142,179.14,408084349,408.08,745.22,745220146,1153304495,1153.3,250,461,71.66
 Captain America: The First Avenger,2011,adaptation,nan,"action, adventure, sci-fi",nan,75,78,66,72,69,65060000,65.06,176650000,176.65,193.92,193920000,370570000,370.57,140,264.69,46.47
@@ -236,10 +236,10 @@ Chappie,2015,adaptation,nan,"sci-fi, action",nan,57,31,41,36,73,13346782,13.35,3
 "Charlie St. Cloud	",2010,adaptation,nan,"fantasy, romance",nan,62,27,37,32,48,12400000,12.4,31160000,31.16,17.03,17030000,48190000,48.19,44,109.52,28.18
 Charlie Wilson's War,2007,based on a true story,drama,"war, drama",nan,73,82,69,76,69,9656250,9.66,66661095,66.66,51.81,51814126,118475221,118,75,157.97,12.88
 Charlie Wilson's War,2007,based on a true story,drama,"war, drama",nan,73,82,69,76,69,9656250,9.66,66661095,66.66,51.81,51814126,118475221,118,75,157.97,12.88
-CharlieÃ¢ÂÂs Angels,2019,remake,nan,action,Sony Pictures,79,53,52,53,28,8351109,8.4,17199425,17.2,38.4,38400000,55599425,55.6,48,115.83,17.5
-Chef,2014,original screenplayÃ,nan,comedy,nan,85,86,68,77,78,204961,0.2,31424003,31.42,14.54,14543932,45967935,46,11,417.89,1.86
+CharlieÃÂ¢ÃÂÃÂs Angels,2019,remake,nan,action,Sony Pictures,79,53,52,53,28,8351109,8.4,17199425,17.2,38.4,38400000,55599425,55.6,48,115.83,17.5
+Chef,2014,original screenplayÃÂ,nan,comedy,nan,85,86,68,77,78,204961,0.2,31424003,31.42,14.54,14543932,45967935,46,11,417.89,1.86
 Chernobyl Diaries,2012,original screenplay,nan,"horror, thriller",nan,29,19,32,26,47,7955307,7.96,18119640,18.12,19.04,19038008,37157648,37,1,3715.76,795.53
-ChildÃ¢ÂÂs Play,2019,remake,nan,horror,United Artists Releasing,57,63,48,56,62,14094594,14.1,29208403,29.2,15.7,15693834,44902237,44.9,10,449.02,141
+ChildÃÂ¢ÃÂÃÂs Play,2019,remake,nan,horror,United Artists Releasing,57,63,48,56,62,14094594,14.1,29208403,29.2,15.7,15693834,44902237,44.9,10,449.02,141
 Christopher Robin,2018,adaptation,nan,adventure,nan,87,71,59,65,76,24585139,24.6,78163501,78,37,37391937,115555438,1156,75,154.07,32.78
 Chronicle (2012),2012,original screenplay,nan,"sci-fi, thriller",nan,71,85,69,77,73,22004098,22,64575175,64.58,62.06,62060922,126636097,127,12,1055.3,183.37
 Cinderella,2015,adaptation,nan,fantasy,nan,79,85,67,76,76,67877361,67.88,201151353,201.15,341.2,341200000,542351353,542,95,570.9,71.45
@@ -333,16 +333,16 @@ Dolphin Tale 2,2014,sequel,nan,"drama, family",nan,73,67,58,63,54,15873397,15.87
 Don Jon,2013,original screenplay,nan,"Drama, Comedy, Romance",nan,59,80,66,73,70,8677009,8.68,24477704,24.48,5.97,5973052,30450756,30,3,1015.03,289.23
 Don't Be Afraid Of The Dark,2011,remake / reboot,nan,"fantasy, horror, thriller",nan,37,59,56,58,54,8530000,8.53,24050000,24.05,12.95,12950000,37000000,37,25,148,34.12
 Don't Worry Darling,2022,nan,thriller,mystery,Warner Bros. Pictures,74,38,48,43,43,19353213,19.4,45309403,45.3,41.3,41304801,86614204,86.6,35,247.47,55.29
-DonÃ¢ÂÂt Breathe,2016,original screenplay,nan,Horror,nan,81,87,71,79,73,26411706,26.41,89049804,89.05,63.65,63647435,152697239,152.7,9.9,1542,266.78
-DonÃ¢ÂÂt Let Go,2019,original screenplay,nan,thriller,Universal Pictures,79,39,49,44,59,2338669,2.3,4302776,4.3,0.1,72949,4375725,4.4,5,87.51,46
+DonÃÂ¢ÃÂÃÂt Breathe,2016,original screenplay,nan,Horror,nan,81,87,71,79,73,26411706,26.41,89049804,89.05,63.65,63647435,152697239,152.7,9.9,1542,266.78
+DonÃÂ¢ÃÂÃÂt Let Go,2019,original screenplay,nan,thriller,Universal Pictures,79,39,49,44,59,2338669,2.3,4302776,4.3,0.1,72949,4375725,4.4,5,87.51,46
 Dope,2015,original screenplay,nan,"comedy, drama",nan,85,87,72,80,75,6100010,6.1,17506470,17.51,0.48,480000,17986470,18,0.7,2569.5,871.43
 Dora and the Lost City of Gold,2019,adaptation,nan,adventure,Paramount Pictures,88,84,63,74,44,17431588,17.4,60477943,60.5,58.8,58804784,119282727,119.3,49,243.43,35.51
 Downton Abbey,2019,adaptation,nan,drama,Focus Features,94,84,64,74,61,31033665,31,96722715,96.7,89.2,89200000,185922715,185.9,17,1093.66,182.35
 Downton Abbey: A New Era,2022,nan,drama,-,Universal Pictures,97,86,63,75,62,16000495,16,44141550,44.1,48.6,48559860,92701410,92.7,40,231.75,40
 Dr Seuss' The Grinch,2018,adaptation,nan,animation,nan,55,58,51,55,65,67572855,67.6,269612735,270,229,228700000,498312735,4983,75,664.42,90.1
 Dr. Seuss' The Lorax,2012,adaptation,nan,"animation, comedy, family",nan,64,54,46,50,65,70217070,70.22,214030500,214.03,134.81,134809816,348840316,349,70,498.34,100.31
-Dracula Untold,2014,original screenplayÃ,nan,"action, drama, fantasy, horror, war",nan,59,23,40,32,63,23514615,23.51,56280355,56.28,159.25,159248846,215529201,216,70,307.9,33.59
-Draft Day,2014,original screenplayÃ,nan,"drama, sport",nan,66,61,54,58,66,9783603,9.78,28842237,28.84,0.62,619809,29462046,29,25,117.85,39.13
+Dracula Untold,2014,original screenplayÃÂ,nan,"action, drama, fantasy, horror, war",nan,59,23,40,32,63,23514615,23.51,56280355,56.28,159.25,159248846,215529201,216,70,307.9,33.59
+Draft Day,2014,original screenplayÃÂ,nan,"drama, sport",nan,66,61,54,58,66,9783603,9.78,28842237,28.84,0.62,619809,29462046,29,25,117.85,39.13
 Drag Me to Hell ,2009,original screenplay,nan,"horror, thriller",nan,61,92,83,88,60,15800000,15.8,42100000,42.1,48.7,48700000,90800000,90.8,30,302.67,52.67
 Dragon Ball Super: Broly,2019,sequel,nan,"action, adventure, sci-fi, fantasy, family",Funimation Films,93,83,59,71,77,9816197,9.8,30712119,30.7,72.9,72915772,103627891,103.6,8.5,1219.15,115.29
 Dragon Wars (aka D-War),2007,original screenplay,fantasy,"action, fantasy",nan,19,27,33,30,29,5041239,5.04,10977721,10.98,63.27,63274132,74251853,74,75,99,6.72
@@ -358,7 +358,7 @@ Dunkirk,2017,original screenplay,nan,"action, thriller",nan,82,92,94,93,84,50513
 Duplicity ,2009,original screenplay,nan,"crime, romance, thriller",nan,38,64,69,67,50,14000000,14,40570000,40.57,37.57,37570000,78140000,78.14,60,130.23,23.33
 Dylan Dog: Dead of Night,2011,adaptation,nan,"comedy, horror, mystery",nan,28,6,31,19,55,750000,0.75,1190000,1.19,3.45,3450000,4640000,4.64,20,23.2,3.75
 Early Man,2018,original screenplay,nan,adventure,nan,51,81,68,75,64,3190525,3.2,8267544,8,46,45728842,53996386,540,50,107.99,6.38
-Earth to Echo,2014,original screenplayÃ,nan,"adventure, sci-fi, family",nan,47,48,53,51,47,8364658,8.36,38934842,38.93,6.4,6401862,45336704,45,13,348.74,64.34
+Earth to Echo,2014,original screenplayÃÂ,nan,"adventure, sci-fi, family",nan,47,48,53,51,47,8364658,8.36,38934842,38.93,6.4,6401862,45336704,45,13,348.74,64.34
 Easter Sunday,2022,nan,comedy,-,Universal Pictures,70,44,41,43,34,5447130,5.4,13013690,13,0,8169,13021859,13,17,76.6,32.04
 Easy A,2010,adaptation,nan,"comedy, romance",nan,75,85,72,79,73,17700000,17.7,58400000,58.4,16.55,16550000,74950000,74.95,8,936.88,221.25
 "Eat Pray Love	",2010,adaptation,nan,romance,nan,46,36,50,43,48,23100000,23.1,80570000,80.57,124.02,124020000,204590000,204.59,60,340.98,38.5
@@ -450,7 +450,7 @@ Frozen II,2019,sequel,nan,adventure,Walt Disney Studios,92,78,65,72,69,130263358
 Funny People ,2009,original screenplay,nan,comedy,nan,58,68,60,64,64,22700000,22.7,51850000,51.85,19.73,19730000,71580000,71.58,75,95.44,30.27
 Furious 7,2015,sequel,nan,action,nan,84,81,67,74,68,147187040,147.19,352786830,352.79,1162.04,1162040651,1514827481,1515,190,797.28,77.47
 "Furry Vengeance	",2010,original screenplay,nan,"comedy, family",nan,36,8,23,16,30,6600000,6.6,17630000,17.63,18.61,18610000,36240000,36.24,35,103.54,18.86
-Fury (2014),2014,original screenplayÃ,nan,"action, drama, war",nan,85,77,64,71,73,23702421,23.7,85817906,85.82,126,126000000,211817906,212,68,311.5,34.86
+Fury (2014),2014,original screenplayÃÂ,nan,"action, drama, war",nan,85,77,64,71,73,23702421,23.7,85817906,85.82,126,126000000,211817906,212,68,311.5,34.86
 G-Force ,2009,original screenplay,nan,"action, adventure, comedy",nan,50,22,41,32,41,31700000,31.7,119400000,119.4,173.38,173380000,285100000,285.1,150,190.07,21.13
 G.I. Joe: Retaliation,2013,sequel,nan,"Action, Adventure, Sci-Fi, Thriller",nan,49,28,41,35,53,40501814,40.5,122523060,122.52,253.22,253217645,375740705,376,130,289.03,31.16
 G.I. Joe: The Rise of Cobra ,2009,adaptation,nan,"action, adventure, sci-fi",nan,62,33,32,33,53,54700000,54.7,150200000,150.2,152.26,152260000,302460000,302.1,175,172.63,31.26
@@ -473,11 +473,11 @@ Gifted,2017,original screenplay,nan,drama,nan,85,73,60,67,76,446380,0.45,2480121
 Girls Trip,2017,original screenplay,nan,comedy,nan,80,89,71,80,56,31201920,31.2,115108515,115.11,23.5,23500000,138608515,138.61,19,729.52,164.22
 Glass,2019,sequel,nan,"drama, sci-fi, thriller",Universal Pictures,73,37,42,40,68,40328920,40.3,111035005,111,135.9,135873591,246908596,246.9,20,1234.54,201.5
 Gnomeo and Juliet,2011,original screenplay,nan,"animation, comedy, family",nan,52,56,53,55,59,25360000,25.36,99970000,99.97,94,94000000,193970000,193.97,36,538.81,70.44
-God's Not Dead,2014,original screenplayÃ,nan,"drama, fantasy, comedy, family",nan,79,16,16,16,35,9217013,9.22,60755732,60.76,1.88,1875000,62630732,63,2,3131.54,460.85
+God's Not Dead,2014,original screenplayÃÂ,nan,"drama, fantasy, comedy, family",nan,79,16,16,16,35,9217013,9.22,60755732,60.76,1.88,1875000,62630732,63,2,3131.54,460.85
 Gods of Egypt,2016,original screenplay,nan,Adventure,nan,38,16,25,20.5,45,14123903,14.12,31153464,31.15,119.53,119527400,150680864,150.68,140,108,10.09
 Godzilla (2014),2014,remake / reboot,nan,"action, adventure, sci-fi, thriller, fantasy",nan,67,74,62,68,68,93188384,93.19,200676069,200.68,328,328000000,528676069,529,160,330.42,58.24
 Godzilla: King of the Monsters,2019,sequel,nan,action,Warner Bros. Pictures,83,42,48,45,73,47776293,47.8,110500138,110.5,275.4,275400000,385900138,385.9,170,227,28.12
-GodÃ¢ÂÂs Not Dead 2,2016,sequel,nan,Drama,nan,63,9,22,15.5,18,7623662,7.62,20773069,20.77,0.95,945447,21718516,21.72,5,434,152.47
+GodÃÂ¢ÃÂÃÂs Not Dead 2,2016,sequel,nan,Drama,nan,63,9,22,15.5,18,7623662,7.62,20773069,20.77,0.95,945447,21718516,21.72,5,434,152.47
 Going in Style ,2017,remake,nan,comedy,nan,58,48,50,49,58,11932330,11.93,45018541,45.02,39.9,39900000,84918541,84.92,25,339.67,47.73
 Going the Distance,2010,original screenplay,nan,"comedy, romance",nan,56,53,51,52,55,6900000,6.9,17800000,17.8,24.25,24250000,42050000,42.05,32,131.41,21.56
 Gold,2017,based on a true story,nan,adventure,nan,45,43,49,46,64,3471316,3.47,7227038,7.23,0,0,7227038,7.23,20,36.14,17.36
@@ -607,8 +607,8 @@ Insidiuous Chapter 2,2013,sequel,nan,"Thriller, Horror",nan,57,38,40,39,69,40272
 Instant Family,2018,based on a true story,nan,comedy,nan,79,82,57,70,70,14504315,14.5,66220028,66,10,9724832,75944860,759,48,158.22,30.22
 Instructions Not Included,2013,original screenplay,nan,"Drama, Comedy",nan,89,56,55,56,77,7846426,7.85,44467207,44.47,54.6,54600000,99067206,99,6,1801.22,142.66
 Insurgent,2015,adaptation,nan,"action, adventure",nan,61,30,42,36,54,52263680,52.26,130179072,130.18,166.82,166823455,297002527,297,110,270,47.51
-Interstellar,2014,original screenplayÃ,nan,"action, adventure, sci-fi, mystery",nan,86,72,74,73,84,47510360,47.51,188020017,188.02,484.7,484700000,672720017,673,165,407.71,28.79
-Into The Storm,2014,original screenplayÃ,nan,"action, thriller",nan,43,22,44,33,52,17346427,17.35,47602194,47.6,113,113000000,160602194,161,50,321.2,34.69
+Interstellar,2014,original screenplayÃÂ,nan,"action, adventure, sci-fi, mystery",nan,86,72,74,73,84,47510360,47.51,188020017,188.02,484.7,484700000,672720017,673,165,407.71,28.79
+Into The Storm,2014,original screenplayÃÂ,nan,"action, thriller",nan,43,22,44,33,52,17346427,17.35,47602194,47.6,113,113000000,160602194,161,50,321.2,34.69
 Into the Wild,2007,adaptation,nan,adventure,nan,89,82,73,78,82,212440,0.21,18354356,18.35,37.28,37280210,55634566,56,15,370.9,1.42
 Into the Wild,2007,adaptation,nan,adventure,nan,89,82,73,78,82,212440,0.21,18354356,18.35,37.28,37280210,55634566,56,15,370.9,1.42
 Into the Woods,2014,adaptation,nan,"adventure, fantasy, comedy, family, musical",nan,51,71,69,70,61,31051923,31.05,128002372,128,76.3,76300000,204302372,204,50,408.6,62.1
@@ -638,7 +638,7 @@ Jersey Boys,2014,adaptation,nan,"biography, drama, music, musical",nan,63,53,54,
 Jexi,2019,original screenplay,nan,comedy,Lionsgate,71,11,39,25,21,3106730,3.1,6546159,6.5,0.9,906254,7452413,7.5,5,149.05,62
 Jigsaw,2017,sequel,nan,horror,nan,92,34,39,37,60,16640452,16.64,37899565,37.9,63.12,63120449,101020014,101.02,10,1010.2,166.4
 John Carter,2012,adaptation,nan,"action, adventure, fantasy",nan,60,51,51,51,70,30180188,30.18,73078100,73.08,211.06,211061000,284139100,284,250,113.66,12.07
-John Wick,2014,original screenplayÃ,nan,"action, thriller",nan,80,85,68,77,79,14415922,14.42,43037835,43.04,35.7,35702062,78739897,79,20,393.7,72.08
+John Wick,2014,original screenplayÃÂ,nan,"action, thriller",nan,80,85,68,77,79,14415922,14.42,43037835,43.04,35.7,35702062,78739897,79,20,393.7,72.08
 John Wick: Chapter 3 - Parabellum,2019,sequel,nan,action,Lionsgate,86,90,73,82,78,56818067,56.8,171015687,171,155.7,155679317,326695004,326.7,75,435.59,75.73
 John Wick: Chapter Two,2017,sequel,nan,action,nan,85,89,75,82,81,30436123,30.44,92029184,92.03,79.51,79510703,171539887,171.54,40,428.85,76.09
 Johnny English Reborn,2011,sequel,nan,"adventure, comedy, crime",nan,55,38,46,42,63,3830000,3.83,8310000,8.31,151.77,151770000,160080000,160.08,45,355.73,8.51
@@ -696,12 +696,12 @@ Lean on Pete,2018,adaptation,nan,drama,nan,73,92,80,86,75,46975,0,1163056,1,0,0,
 Leap Year,2010,original screenplay,nan,"comedy, romance",nan,49,21,33,27,54,9200000,9.2,25920000,25.92,6.69,6690000,32610000,32.61,19,171.63,48.42
 Leap!,2017,original screenplay,nan,animation,nan,63,37,48,43,64,4730038,4.73,21858070,21.86,84.2,84197417,106055487,106.06,30,353.52,15.77
 Lee Daniels' The Butler,2013,based on a true story,nan,"Biography, Drama, History",nan,78,72,66,69,67,24637312,24.64,116632095,116.63,59.97,59966813,176598908,177,30,588.66,82.12
-Left BehindÃ,2014,adaptation,nan,thriller,nan,44,2,12,7,29,6300147,6.3,14019924,14.02,5.66,5663000,19682924,20,16,123.02,39.38
+Left BehindÃÂ,2014,adaptation,nan,thriller,nan,44,2,12,7,29,6300147,6.3,14019924,14.02,5.66,5663000,19682924,20,16,123.02,39.38
 Legend of the Guardians: The Owls of Ga'Hoole,2010,adaptation,nan,"animation, adventure, fantasy",nan,65,51,53,52,69,16100000,16.1,55680000,55.68,84.4,84400000,140080000,140.08,80,175.1,20.13
 Legion,2010,original screenplay,nan,"action, fantasy, horror",nan,36,19,32,26,44,17500000,17.5,40170000,40.17,27.75,27750000,67920000,67.92,26,261.23,67.31
 Les Miserables (2012),2012,adaptation,nan,"musical, romance",nan,79,70,63,67,73,27281735,27.28,148809770,148.81,293,293000000,441809770,442,61,724.28,44.72
 Let Him Go,2020,adaptation,crime,nan,Focus Features,76,84,63,74,61,4000470,4,9358025,9.4,1.4,1414982,10773007,10.8,21,51.3,19.05
-Let's Be Cops,2014,original screenplayÃ,nan,"action, comedy",nan,53,18,30,24,65,17813722,17.81,82390774,82.39,55.22,55223280,137614054,138,17,809.49,104.79
+Let's Be Cops,2014,original screenplayÃÂ,nan,"action, comedy",nan,53,18,30,24,65,17813722,17.81,82390774,82.39,55.22,55223280,137614054,138,17,809.49,104.79
 Letters to Juliet,2010,adaptation,nan,"comedy, romance",nan,62,40,50,45,60,13500000,13.5,53030000,53.03,26.15,26150000,79180000,79.18,30,263.93,45
 License to Wed,2007,original screenplay,nan,romantic comedy,nan,53,8,25,17,46,10422258,10.42,43799818,43.8,25.51,25507406,69307224,69,35,198.02,29.78
 License to Wed,2007,original screenplay,nan,romantic comedy,nan,53,8,25,17,46,10422258,10.42,43799818,43.8,25.51,25507406,69307224,69,35,198.02,29.78
@@ -735,7 +735,7 @@ Love Happens ,2009,original screenplay,nan,romance,nan,40,18,33,26,55,8050000,8.
 Love and Monsters,2020,original screenplay,adventure,nan,Paramount Pictures,89,94,63,79,73,270302,0.3,1070714,1,0.1,60969,1131683,1.1,30,3.77,1
 "Love, Simon",2018,adaptation,nan,drama,nan,89,92,72,82,82,11756244,11.8,40826341,41,25,25476084,66302425,663,17,390.01,69.15
 Loving Vincent,2017,based on a true story,nan,animation,nan,89,82,62,72,84,23180,0.02,5784242,5.78,0,0,5784242,5.78,5.5,105.17,0.42
-Lucy,2014,original screenplayÃ,nan,"action, sci-fi, thriller",nan,47,66,61,64,60,43899340,43.9,126663600,126.66,332.2,332200000,458863600,459,40,1147.16,109.75
+Lucy,2014,original screenplayÃÂ,nan,"action, sci-fi, thriller",nan,47,66,61,64,60,43899340,43.9,126663600,126.66,332.2,332200000,458863600,459,40,1147.16,109.75
 "Lyle, Lyle, Crocodile",2022,nan,adventure,"family, musical",Sony Pictures,93,73,51,62,70,11401182,11.4,46888441,46.9,60.5,60515003,107403444,107.4,50,214.81,22.8
 MIB 3,2012,sequel,nan,"action, comedy, sci-fi",nan,71,70,58,64,69,54592779,54.59,179020854,179.02,445.01,445005922,624026776,624,225,277.35,24.26
 Ma,2019,original screenplay,nan,"horror, mystery, thriller",Universal Pictures,64,55,53,54,54,18099805,18.1,45896028,45.9,15.3,15324756,61220784,61.2,5,1224.42,362
@@ -790,7 +790,7 @@ Minions,2015,sequel,nan,animation,nan,51,54,56,55,58,115718405,115.72,335240450,
 Minions: The Rise of Gru,2022,nan,adventure,"sci-fi, fantasy, comedy, crime, animation, family",Universal Pictures,89,70,56,63,76,107010140,107,369695210,369.7,569.4,569411141,939106351,939.1,80,1173.88,133.76
 Miracles from Heaven,2016,based on a true story,nan,Drama,nan,82,44,44,44,59,14178326,14.18,61705123,61.71,12.18,12178236,73883359,73.88,13,568,109.06
 Mirror Mirror,2012,adaptation,nan,"adventure, comedy",nan,45,49,46,48,53,18132085,18.13,64935167,64.94,101.24,101235755,166170922,166,85,195.5,21.33
-Miss PeregrineÃ¢ÂÂs Home for Peculiar Children,2016,adaptation,nan,Adventure,nan,64,63,57,60,69,28871140,28.87,85218780,85.22,172.65,172654320,257873100,257.87,110,234,26.25
+Miss PeregrineÃÂ¢ÃÂÃÂs Home for Peculiar Children,2016,adaptation,nan,Adventure,nan,64,63,57,60,69,28871140,28.87,85218780,85.22,172.65,172654320,257873100,257.87,110,234,26.25
 Miss Sloane,2016,original screenplay,nan,"drama, thriller",nan,58,69,63,66,45,1844972,1.84,3500605,4,0,0,3500605,3.5,13,27,14.19
 Missing Link,2019,original screenplay,nan,adventure,United Artists Releasing,67,89,68,79,74,5944950,5.9,16649539,16.6,9.6,9599930,26249469,26.2,100,26.25,5.9
 Mission Impossible 4,2011,sequel,nan,"action, thriller",nan,86,93,73,83,76,29550000,29.55,209390000,209.39,485.32,485320000,694710000,694.71,145,479.11,20.38
@@ -813,7 +813,7 @@ Morning Glory,2010,original screenplay,nan,"comedy, romance",nan,54,54,57,56,66,
 Mortal Engines,2018,adaptation,nan,"action, adventure",nan,59,27,44,36,65,7559850,7.6,15547230,16,54,53700000,69247230,692,100,69.25,7.56
 Mortdecai,2015,adaptation,nan,"action, comedy",nan,30,12,27,20,32,4200586,4.2,7696134,7.7,39.58,39579561,47275695,47,60,78.79,7
 Motherless Brooklyn,2019,adaptation,nan,drama,Warner Bros. Pictures,80,61,60,61,51,3500454,3.5,9200043,9.2,4.2,4200000,13400043,13.4,26,51.54,13.46
-MotherÃ¢ÂÂs Day,2016,original screenplay,nan,"romance, comedy",nan,45,7,18,12.5,22,8369184,8.37,32492859,32.49,11.3,11300000,43792859,43.79,25,175,33.48
+MotherÃÂ¢ÃÂÃÂs Day,2016,original screenplay,nan,"romance, comedy",nan,45,7,18,12.5,22,8369184,8.37,32492859,32.49,11.3,11300000,43792859,43.79,25,175,33.48
 Movie 43,2013,original screenplay,nan,Comedy,nan,24,4,18,11,30,4805878,4.81,8840453,8.84,23.6,23598535,32438988,32,6,540.65,80.1
 Mr. Brooks,2007,original screenplay,nan,thriller,nan,76,56,45,51,88,10017067,10.02,28549298,28.55,19.57,19572602,48121900,48,20,240.61,50.09
 Mr. Brooks,2007,original screenplay,nan,thriller,nan,76,56,45,51,88,10017067,10.02,28549298,28.55,19.57,19572602,48121900,48,20,240.61,50.09
@@ -842,7 +842,7 @@ Nanny McPhee Returns,2010,sequel,nan,"comedy, family, fantasy",nan,54,77,52,65,5
 National Treasure: Book of Secrets,2007,sequel,nan,adventure,nan,67,31,48,40,57,44783772,44.78,219964115,219.96,237.4,237400485,457364600,457,130,351.82,34.45
 National Treasure: Book of Secrets,2007,sequel,nan,adventure,nan,67,31,48,40,57,44783772,44.78,219964115,219.96,237.4,237400485,457364600,457,130,351.82,34.45
 Need for Speed,2014,adaptation,nan,"action, drama, thriller, crime",nan,58,22,39,31,65,17844939,17.84,43577636,43.58,159.7,159700000,203277636,203,66,308,27.04
-Neighbors,2014,original screenplayÃ,nan,comedy,nan,64,73,68,71,63,49033915,49.03,150157400,150.16,118,118000000,268157400,268,18,1489.76,272.41
+Neighbors,2014,original screenplayÃÂ,nan,comedy,nan,64,73,68,71,63,49033915,49.03,150157400,150.16,118,118000000,268157400,268,18,1489.76,272.41
 Neighbors 2: Sorority Rising,2016,sequel,nan,Comedy,nan,47,62,58,60,55,21760405,21.76,55340730,55.34,52.55,52551344,107892074,107.89,35,308,62.17
 Nerve,2016,adaptation,nan,thriller,nan,69,65,58,61.5,67,9445456,9.45,38583626,38.58,42.82,42822959,81406585,81.41,20,407,47.23
 Never Let Me Go,2010,adaptation,nan,"romance, sci-fi",nan,70,70,69,70,74,110000,0.11,2430000,2.43,7.02,7020000,9450000,9.45,15,63,0.73
@@ -853,21 +853,21 @@ Next Day Air ,2009,original screenplay,nan,"action, comedy, crime",nan,27,21,46,
 Night School,2018,original screenplay,nan,comedy,nan,43,28,43,36,54,27257615,27.3,77339130,77,26,25531416,102870546,1029,29,354.73,93.99
 Night at the Museum: Battle of the Smithsonian ,2009,sequel,nan,"action, adventure, comedy",nan,60,43,42,43,54,54200000,54.2,177200000,177.2,235.8,235800000,413000000,413,150,275.33,36.13
 Night at the Museum: Secret of the Tomb,2014,sequel,nan,"adventure, fantasy, comedy, family",nan,59,50,47,49,59,17100520,17.1,113574930,113.57,246.63,246625469,360200399,360,127,283.62,13.46
-Nightcrawler,2014,original screenplayÃ,nan,"drama, thriller, crime",nan,86,95,76,86,84,10441000,10.44,32381217,32.38,6.32,6316000,38697217,39,8.5,455.26,122.84
+Nightcrawler,2014,original screenplayÃÂ,nan,"drama, thriller, crime",nan,86,95,76,86,84,10441000,10.44,32381217,32.38,6.32,6316000,38697217,39,8.5,455.26,122.84
 Nine ,2009,adaptation,nan,"musical, romance",nan,40,37,49,43,41,5450000,5.45,19670000,19.67,34.32,34320000,53990000,53.99,80,67.49,6.81
 Nine Lives,2016,original screenplay,nan,Comedy,nan,43,11,11,11,25,28387,0.03,19700032,19.7,24.52,24524212,44224244,44.22,30,147,0.09
 Ninja Assassin ,2009,original screenplay,nan,"action, crime, thriller",nan,57,25,34,30,66,13300000,13.3,38120000,38.12,23.47,23470000,61590000,61.59,50,123.18,26.6
 No Country for Old Men,2007,adaptation,nan,"crime, drama",nan,86,95,91,93,76,1226333,1.23,74283625,74.28,86.72,86715832,160999457,161,25,644,4.91
 No Country for Old Men,2007,adaptation,nan,"crime, drama",nan,86,95,91,93,76,1226333,1.23,74283625,74.28,86.72,86715832,160999457,161,25,644,4.91
 No Escape,2015,original screenplay,nan,action,nan,67,46,38,42,65,8111264,8.11,27203371,27.2,27.13,27130000,54333371,54,0.45,12074.08,1802.5
-No Good Deed (2014),2014,original screenplayÃ,nan,"thriller, horror, crime",nan,57,10,26,18,44,24250283,24.25,52543632,52.54,1.78,1779578,54323210,54,13.2,411.54,183.71
+No Good Deed (2014),2014,original screenplayÃÂ,nan,"thriller, horror, crime",nan,57,10,26,18,44,24250283,24.25,52543632,52.54,1.78,1779578,54323210,54,13.2,411.54,183.71
 No Reservations,2007,original screenplay,nan,romantic comedy,nan,62,39,50,45,66,11704357,11.7,43107979,43.11,49.49,49493071,92601050,93,28,330.72,41.8
 No Reservations,2007,original screenplay,nan,romantic comedy,nan,62,39,50,45,66,11704357,11.7,43107979,43.11,49.49,49493071,92601050,93,28,330.72,41.8
 No Strings Attached,2011,original screenplay,nan,"comedy, romance",nan,57,49,50,50,54,19700000,19.7,70660000,70.66,78.57,78570000,149230000,149.23,25,596.92,78.8
 Noah,2014,adaptation,nan,"action, adventure, drama, fantasy",nan,42,77,68,73,53,43720472,43.72,101200044,101.2,261.44,261437429,362637473,363,125,290.11,34.98
 Nobody's Fool,2018,original screenplay,nan,comedy,nan,38,24,39,32,31,13743111,13.7,31713110,32,2,1819483,33532593,335,19,176.49,72.33
 Nocturnal Animals,2016,adaptation,nan,"drama, thriller",nan,76,71,67,69,81,3161381,3.16,10286142,10,13.4,13398972,23685114,23.69,22.5,105,14.05
-Non-Stop,2014,original screenplayÃ,nan,"action, mystery, thriller",nan,64,60,56,58,71,28875635,28.88,92168600,92.17,130.64,130641000,222809600,223,50,445.62,57.75
+Non-Stop,2014,original screenplayÃÂ,nan,"action, mystery, thriller",nan,64,60,56,58,71,28875635,28.88,92168600,92.17,130.64,130641000,222809600,223,50,445.62,57.75
 Nope,2022,nan,thriller,"mystery, sci-fi, horror",Universal Pictures,69,82,77,80,63,44366910,44.4,123277080,123.3,48.8,48762007,172039087,172,68,253,65.25
 Norbit,2007,original screenplay,nan,romantic comedy,nan,53,9,27,18,43,34195434,34.2,95673607,95.67,63.64,63639954,159313561,159,60,265.52,56.99
 Norbit,2007,original screenplay,nan,romantic comedy,nan,53,9,27,18,43,34195434,34.2,95673607,95.67,63.64,63639954,159313561,159,60,265.52,56.99
@@ -880,10 +880,10 @@ Now You See Me 2,2016,sequel,nan,thriller,nan,55,34,46,40,64,22383146,22.38,6507
 Oblivion,2013,adaptation,nan,"Action, Adventure, Sci-Fi, Mystery, Thriller",nan,61,54,54,54,70,37054485,37.05,89107235,89.11,197.06,197061337,286168572,286,120,238.47,30.88
 Observe and Report ,2009,original screenplay,nan,"comedy, crime",nan,40,51,54,53,59,11000000,11,24000000,24,2.96,2960000,26960000,26.96,18,149.78,61.11
 Obsessed ,2009,original screenplay,nan,thriller,nan,50,20,25,23,53,28600000,28.6,68260000,68.26,5.56,5560000,73820000,73.82,20,369.1,143
-Obvious Child,2014,original screenplayÃ,nan,"comedy, romance",nan,73,90,76,83,66,77315,0.08,3123963,3.12,0.2,200000,3123963,3,1,312.4,7.73
+Obvious Child,2014,original screenplayÃÂ,nan,"comedy, romance",nan,73,90,76,83,66,77315,0.08,3123963,3.12,0.2,200000,3123963,3,1,312.4,7.73
 Ocean's 13,2007,sequel,nan,"crime, comedy",nan,75,70,62,66,64,36133403,36.13,117154724,117.15,194.16,194157900,311312624,311,85,366.25,42.51
 Ocean's 13,2007,sequel,nan,"crime, comedy",nan,75,70,62,66,64,36133403,36.13,117154724,117.15,194.16,194157900,311312624,311,85,366.25,42.51
-OceanÃ¢ÂÂs 8,2018,semi-sequel,nan,action,nan,46,68,61,65,52,41607378,41.6,139022754,139,153,152718455,291741209,2917,70,416.77,59.44
+OceanÃÂ¢ÃÂÃÂs 8,2018,semi-sequel,nan,action,nan,46,68,61,65,52,41607378,41.6,139022754,139,153,152718455,291741209,2917,70,416.77,59.44
 Office Christmas Party,2016,original screenplay,nan,Comedy,nan,46,41,42,41.5,46,16890204,16.89,52607303,53,36.93,36933408,89540711,89.54,45,199,37.53
 Old Dogs ,2009,original screenplay,nan,"comedy, family",nan,49,5,19,12,45,16900000,16.9,49490000,49.49,47.26,47260000,96750000,96.75,35,276.43,48.29
 Oldboy,2013,adaptation,nan,"Action, Drama, Mystery, Thriller",nan,37,41,49,45,47,885382,0.89,2193658,2.19,2.67,2667364,4861022,5,30,16.2,2.95
@@ -895,7 +895,7 @@ Onward,2020,original screenplay,adventure,nan,Walt Disney Studios Motion Picture
 Operation Finale,2018,based on a true story,nan,thriller,nan,66,60,58,59,69,6022758,6,17612099,18,0,0,17612099,176,24,73.38,25.09
 Orphan ,2009,original screenplay,nan,"mystery, thriller",nan,65,55,42,49,75,12800000,12.8,41590000,41.59,35.1,35100000,76690000,76.69,30,255.63,42.67
 Orphan: First Kill,2022,nan,crime,"drama, horror, mystery, thriller",Paramount Pictures,77,70,54,62,61,1739557,1.7,5413227,5.4,38.4,38393707,43806934,43.8,10,438.07,17.4
-Ouija,2014,original screenplayÃ,nan,"action, adventure, thriller, horror",nan,26,7,38,23,63,19875995,19.88,50856010,50.86,51.67,51673769,102529779,103,5,2050.6,397.52
+Ouija,2014,original screenplayÃÂ,nan,"action, adventure, thriller, horror",nan,26,7,38,23,63,19875995,19.88,50856010,50.86,51.67,51673769,102529779,103,5,2050.6,397.52
 Ouija: Origin of Evil,2016,sequel,nan,Horror,nan,61,82,65,73.5,74,14065500,14.07,34336765,34.34,44.59,44591598,78928363,78.93,9,877,156.28
 Our Family Wedding,2010,original screenplay,nan,comedy,nan,49,14,38,26,55,7600000,7.6,20260000,20.26,1.15,1150000,21410000,21.41,14,152.93,54.29
 Our Idiot Brother,2011,original screenplay,nan,comedy,nan,79,68,60,64,65,7010000,7.01,24820000,24.82,1,1000000,25820000,25.82,5,516.4,140.2
@@ -916,7 +916,6 @@ Paper Towns,2015,adaptation,nan,drama,nan,52,56,56,56,64,12650140,12.65,32000304
 Papillon,2018,"based on a true story, remake",nan,drama,nan,78,54,52,53,47,1090073,1.1,1090073,1,2,2478500,3568573,36,90,3.97,1.21
 ParaNorman,2012,original screenplay,nan,"animation, adventure, comedy",nan,72,87,72,80,71,14087050,14.09,56003051,56,51.14,51136348,107139399,107,60,178.57,23.48
 Paranormal Activity ,2009,original screenplay,nan,"horror, mystery",nan,56,82,68,75,57,19600000,19.6,107920000,107.92,85.44,85440000,193360000,193.36,0.015,1289066.67,130666.67
-Paranormal Activity 2,2010,sequel,nan,horror,nan,,,53,53,58,40670000,40.67,84750000,84.75,92.76,92760000,177510000,177.51,3,5917,1355.67
 Paranormal Activity 3,2011,sequel,nan,horror,nan,58,68,59,64,60,52570000,52.57,104030000,104.03,103.01,103010000,207040000,207.04,5,4140.8,1051.4
 Paranormal Activity 4,2012,sequel,nan,horror,nan,36,24,40,32,45,29003866,29,53921300,53.92,88.92,88917657,142838957,143,5,2856.78,580.08
 Paranormal Activity: The Ghost Dimension,2015,sequel,nan,horror,nan,33,11,30,21,37,8070493,8.07,16281378,16.28,50.8,50800000,67081378,67,10,670.81,80.7
@@ -940,7 +939,7 @@ Percy Jackson & the Olympians: The Lightning Thief,2010,adaptation,nan,"adventur
 Percy Jackson: Sea of Monsters,2013,sequel,nan,"Action, Adventure, Drama, Fantasy, Famiily",nan,56,42,39,41,52,14401054,14.4,68559554,68.56,131.29,131290761,199850315,200,90,222.06,16
 Pet Sematary,2019,adaptation,nan,"mystery, thriller, horror",Paramount Pictures,43,59,57,58,61,24502775,24.5,24502775,24.5,17.3,17300000,41802775,41.8,21,199.06,116.67
 Peter Rabbit,2018,adaptation,nan,adventure,nan,58,64,51,58,65,25010928,25,115234093,115,236,235984098,351218191,3512,50,702.44,50.02
-PeteÃ¢ÂÂs Dragon,2016,remake / reboot,nan,Adventure,nan,78,86,71,78.5,67,21514095,21.51,75799398,75.8,65.84,65843814,141643212,141.64,65,218,33.1
+PeteÃÂ¢ÃÂÃÂs Dragon,2016,remake / reboot,nan,Adventure,nan,78,86,71,78.5,67,21514095,21.51,75799398,75.8,65.84,65843814,141643212,141.64,65,218,33.1
 Philomena,2013,based on a true story,nan,Drama,nan,89,92,76,84,79,128435,0.13,37709979,37.71,62.42,62419893,100129872,100,12,834.42,1.07
 Phoenix Forgotten,2017,original screenplay,nan,"sci-fi, horror",nan,42,44,33,39,32,1816499,1.82,3600146,3.6,0,0,3600146,3.6,2.8,128.58,64.87
 Piranha 3-D,2010,remake / reboot,nan,"comedy, horror",nan,45,74,53,64,57,10100000,10.1,25000000,25,58.19,58190000,83190000,83.19,24,346.63,42.08
@@ -959,7 +958,7 @@ Playing with Fire,2019,original screenplay,nan,comedy,Paramount Pictures,78,22,2
 Playmobile: The Movie,2019,original screenplay,nan,"action, adventure, comedy",STX Entertainment,60,17,25,21,36,656530,0.7,1083213,1.1,12.7,12676777,13759990,13.8,40,34.4,1.75
 Please Give,2010,original screenplay,nan,comedy,nan,62,88,78,83,74,100000,0.1,4030000,4.03,0.28,280000,4310000,4.31,3,143.67,3.33
 Point Break,2015,remake / reboot,nan,Action,nan,30,9,34,22,37,9800252,10,28782481,28.78,104.94,104936230,133718711,133.72,105,127,9.33
-PokÃÂ©mon: Detective Pikachu,2019,adaptation,nan,adventure,Warner Bros. Pictures,80,68,53,61,76,54365242,54.4,144105346,144.1,287.6,287600000,431705346,431.7,150,287.8,36.27
+PokÃÂÃÂ©mon: Detective Pikachu,2019,adaptation,nan,adventure,Warner Bros. Pictures,80,68,53,61,76,54365242,54.4,144105346,144.1,287.6,287600000,431705346,431.7,150,287.8,36.27
 Poltergeist,2015,remake / reboot,nan,horror,nan,23,31,47,39,36,22260386,22.26,47425125,47.43,48.01,48012869,95437994,95,35,272.68,63.6
 Poms,2019,original screenplay,nan,comedy,STX Entertainment,75,34,36,35,57,5361937,5.4,13631124,13.6,2.8,2787094,16418218,16.4,10,164.18,54
 Popstar: Never Stop Never Stopping,2016,original screenplay,nan,Comedy,nan,67,77,68,72.5,74,4698715,4.7,9496130,9.5,0.04,40990,9537120,9.54,20,48,23.49
@@ -1011,7 +1010,7 @@ Resident Evil: The Final Chapter,2017,"sequel, adaptation",nan,"sci-fi, action",
 Richard Jewell,2019,based on a true story,nan,"drama, crime, biography",Warner Bros. Pictures,96,77,68,73,75,4705265,4.7,22345542,22.3,20.7,20746668,43092210,43.1,45,95.76,10.44
 Ricki and the Flash,2015,original screenplay,nan,"comedy, drama",nan,51,64,54,59,69,6610961,6.61,26822144,26.82,13.27,13270979,40093123,40,18,222.74,36.73
 Riddick,2013,sequel,nan,"Action, Sci-Fi, Thriller",nan,54,59,49,54,72,19030375,19.03,42025135,42.03,56.31,56312160,98337295,98,38,258.78,50.08
-Ride Along,2014,original screenplayÃ,nan,"action, comedy, adventure, family, animation",nan,59,18,41,30,55,41516170,41.52,134938200,134.94,19.06,19059619,153997819,154,25,615.99,166.06
+Ride Along,2014,original screenplayÃÂ,nan,"action, comedy, adventure, family, animation",nan,59,18,41,30,55,41516170,41.52,134938200,134.94,19.06,19059619,153997819,154,25,615.99,166.06
 Ride Along 2,2016,sequel,nan,Comedy,nan,49,14,32,23,46,35243095,35.24,90862685,90.86,33.38,33383467,124246152,124.25,40,311,88.11
 Rings,2017,sequel,nan,horror,nan,24,7,25,16,39,13002632,13,27793018,27.79,55.29,55287872,83080890,83.08,25,332.32,52.01
 Rio,2011,original screenplay,nan,"animation, adventure, comedy",nan,73,71,63,67,72,39230000,39.23,143620000,143.62,341.02,341020000,484640000,484.64,90,538.49,43.59
@@ -1061,7 +1060,7 @@ See How They Run,2022,nan,comedy,"crime, mystery",Searchlight Pictures,69,74,60,
 Self/less,2015,original screenplay,nan,"sci-fi, thriller",nan,49,21,34,28,84,5403460,5,12279691,12,0,21434136,12279691,12,26,47.23,20.78
 Serenity,2019,original screenplay,nan,"sci-fi, drama, mystery, thriller",Aviron Pictures,30,19,37,28,47,4415403,4.4,8547045,8.5,0,0,8547045,8.5,25,34.19,17.6
 Seven Psychopaths,2012,original screenplay,nan,"comedy, crime, thriller",nan,71,83,66,75,74,4174915,4.17,15024049,15.02,4.4,4398212,19422261,19,15,129.48,27.83
-Sex Tape,2014,original screenplayÃ,nan,"drama, comedy",nan,34,17,36,27,30,14608152,14.61,38543473,38.54,87.53,87526036,126069509,126,40,315.17,36.52
+Sex Tape,2014,original screenplayÃÂ,nan,"drama, comedy",nan,34,17,36,27,30,14608152,14.61,38543473,38.54,87.53,87526036,126069509,126,40,315.17,36.52
 Sex and the City 2,2010,sequel,nan,"comedy, romance",nan,49,15,27,21,41,31000000,31,95350000,95.35,193,193000000,288350000,288.35,100,288.35,31
 Sgt. Stubby: An American Hero,2018,based on a true story,nan,adventure,nan,97,84,57,71,79,1164403,1.2,3054285,3,0,0,3054285,31,25,12.22,4.66
 Shaft,2019,sequel,nan,comedy,Warner Bros. Pictures,94,32,40,36,66,8901419,8.9,21360215,21.4,0,0,21360215,21.4,44,48.55,20.23
@@ -1133,7 +1132,7 @@ Spotlight,2015,based on a true story,nan,drama,nan,95,96,90,93,89,295009,0.3,295
 Spotlight ,2015,based on a true story,nan,drama,nan,93,96,93,94.5,81,295009,0.3,17946804,17.95,43.29,43290697,61237501,61.24,20,306,1.48
 Spy,2015,original screenplay,nan,comedy,nan,81,93,75,84,58,29085719,29.09,110825712,110.83,124.84,124840507,235666219,236,65,362.56,44.75
 Spy Kids: All The Time in the World,2011,sequel,nan,"action, adventure, comedy",nan,40,22,37,30,24,11640000,11.64,38540000,38.54,47.03,47030000,85570000,85.57,27,316.93,43.11
-St. Vincent,2014,original screenplayÃ,nan,"drama, comedy",nan,80,77,64,71,76,109878,0.11,44137712,44.14,10.7,10699522,54837234,55,13,421.82,0.85
+St. Vincent,2014,original screenplayÃÂ,nan,"drama, comedy",nan,80,77,64,71,76,109878,0.11,44137712,44.14,10.7,10699522,54837234,55,13,421.82,0.85
 Star Trek ,2009,original screenplay,nan,"action, adventure, sci-fi",nan,91,94,83,89,80,75200000,75.2,257700000,257.7,127.95,127950000,385650000,385.65,140,275.46,53.71
 Star Trek Beyond,2016,sequel,nan,Adventure,nan,81,84,68,76,68,59253211,59.25,158848340,158.85,184.05,184049672,342898012,342.9,185,185,32.03
 Star Trek Into Darkness,2013,sequel,nan,"Action, Adventure, Sci-Fi. Thriller",nan,90,87,72,80,78,70165559,70.17,228778661,228.78,239,239000000,467778661,468,190,246.2,36.93
@@ -1179,13 +1178,13 @@ Taken ,2009,original screenplay,nan,"action, crime, thriller",nan,83,58,50,54,77
 Taken 2,2012,sequel,nan,"action, crime, thriller",nan,54,21,45,33,56,49514769,49.51,139854287,139.85,236.29,236287019,376141306,376,45,835.87,110.03
 Takers,2010,original screenplay,nan,"action, crime, thriller",nan,57,27,45,36,57,20500000,20.5,57740000,57.74,11.31,11310000,69050000,69.05,32,215.78,64.06
 Taking Woodstock ,2009,adaptation,nan,"comedy, music",nan,48,48,55,52,67,3500000,3.5,7460000,7.46,2.52,2520000,9980000,9.98,29,34.41,12.07
-Tammy,2014,original screenplayÃ,nan,comedy,nan,37,23,39,31,30,21577049,21.58,84525432,84.53,15.85,15850000,100375432,100,20,501.88,107.89
+Tammy,2014,original screenplayÃÂ,nan,comedy,nan,37,23,39,31,30,21577049,21.58,84525432,84.53,15.85,15850000,100375432,100,20,501.88,107.89
 Tangerine,2015,original screenplay,nan,"comedy, drama",nan,80,95,85,90,73,60683,0,702354,1,0,198116,702354,1,0.12,585.3,50.57
 Tangled,2010,adaptation,nan,"animation, comedy, family",nan,88,89,71,80,82,48770000,48.77,200820000,200.82,390.97,390970000,591790000,591.79,260,227.61,18.76
 Ted,2012,original screenplay,nan,"comedy, fantasy",nan,74,68,62,65,70,54415205,54.42,218815487,218.82,330.55,330552828,549368315,549,50,1098.74,108.83
 Ted 2,2015,sequel,nan,comedy,nan,57,46,48,47,64,33507870,33.51,81284830,81.28,132.45,132449953,213734783,214,68,314.32,49.28
 Teen Titans Go! To The Movies,2018,adaptation,nan,adventure,nan,72,90,69,80,64,10411189,10.4,28235020,28,9,9369213,37604233,376,10,376.04,104.11
-Teenage Mutant Ninja Turtles (2014),2014,original screenplayÃ,nan,"action, adventure, sci-fi, fantasy, comedy, animation",nan,53,21,31,26,50,65575105,65.58,191204754,191.2,293.8,293800000,485004754,485,125,388,52.46
+Teenage Mutant Ninja Turtles (2014),2014,original screenplayÃÂ,nan,"action, adventure, sci-fi, fantasy, comedy, animation",nan,53,21,31,26,50,65575105,65.58,191204754,191.2,293.8,293800000,485004754,485,125,388,52.46
 Teenage Mutant Ninja Turtles: Out of the Shadows,2016,sequel,nan,Adventure,nan,49,38,40,39,57,35316382,35.32,82051601,82.05,163.57,163572247,245623848,245.62,135,182,26.16
 Tenet,2020,original screenplay,action,nan,Warner Bros. Pictures,76,69,69,69,74,20001852,20,58504105,58.5,301.7,301736084,360240189,360.2,205,175.73,9.76
 Terminator Genisys,2015,sequel,nan,action,nan,59,25,38,32,63,27018486,27.02,89760956,89.76,350.84,350842581,440603537,441,155,284.26,17.43
@@ -1194,7 +1193,7 @@ Terminator: Dark Fate,2019,sequel,nan,action,Paramount Pictures,82,71,54,63,40,2
 Terrifier 2,2022,nan,horror,-,Bloody Disgusting,80,85,59,72,73,805000,0.8,10640105,10.6,4.7,4739790,15379895,15.4,0.3,6151.96,322
 Texas Chainsaw 3D,2013,sequel,nan,Horror,nan,41,19,31,25,46,21744470,21.74,34341945,34.34,12.9,12900000,47241945,47,20,236.21,108.72
 Thank You for Your Service,2017,"adaptation, based on a true story",nan,drama,nan,78,76,76,76,78,3817700,3.82,9479390,9.48,0,0,9479390,9.48,20,47.4,19.09
-That Awkward Moment,2014,original screenplayÃ,nan,"comedy, romance",nan,47,23,36,30,53,8742109,8.74,26068955,26.07,14.4,14400000,40468955,40,8,505.86,109.28
+That Awkward Moment,2014,original screenplayÃÂ,nan,"comedy, romance",nan,47,23,36,30,53,8742109,8.74,26068955,26.07,14.4,14400000,40468955,40,8,505.86,109.28
 That's My Boy,2012,original screenplay,nan,comedy,nan,53,20,31,26,54,13453714,13.45,36931089,36.93,20.79,20788004,57719093,58,70,82.46,19.22
 The 15:17 to Paris,2018,based on a true story,nan,drama,nan,39,24,45,35,48,12554286,12.6,36250957,36,21,20600000,56850957,569,30,189.5,41.85
 The 33,2015,based on a true story,nan,drama,nan,63,42,55,49,52,5787266,5.79,11944890,11.94,12.68,12675001,24619891,25,26,94.69,22.26
@@ -1236,7 +1235,7 @@ The Bob's Burgers Movie,2022,nan,comedy,"mystery, animation",20th Century Studio
 The Book Thief,2013,adaptation,nan,"Drama, War",nan,74,46,53,50,73,105005,0.11,21488481,21.49,55.1,55097835,76586316,77,19,403.09,0.55
 The Book of Eli        ,2010,original screenplay,nan,"action, adventure, thriller",nan,68,48,53,51,73,32700000,32.7,94840000,94.84,62.27,62270000,157110000,157.11,80,196.39,40.88
 The Book of Henry,2017,original screenplay,nan,drama,nan,63,21,31,26,45,1424540,1.42,4288104,4.29,0,0,4288104,4.29,10,42.88,14.25
-The Book of Life (2014),2014,original screenplayÃ,nan,"adventure, fantasy, comedy, romance, animation, family",nan,78,82,67,75,73,17005218,17.01,50151543,50.15,47.29,47285106,97437106,97,50,194.87,34.01
+The Book of Life (2014),2014,original screenplayÃÂ,nan,"adventure, fantasy, comedy, romance, animation, family",nan,78,82,67,75,73,17005218,17.01,50151543,50.15,47.29,47285106,97437106,97,50,194.87,34.01
 The Boss,2016,original screenplay,nan,Comedy,nan,39,23,40,31.5,44,23586645,23.59,63077560,63.08,15.56,15558697,78636257,78.64,29,271,81.33
 The Boss Baby,2017,adaptation,nan,animation,nan,52,51,50,51,54,50198902,50.2,175003033,175,323.93,323925250,498928283,498.93,125,399.14,40.16
 The Bounty Hunter,2010,original screenplay,nan,"action, comedy, romance",nan,41,7,22,15,37,20700000,20.7,67060000,67.06,69.27,69270000,136330000,136.33,40,340.83,51.75
@@ -1365,7 +1364,7 @@ The Hunger Games: Mockingjay - Part 1,2014,adaptation,nan,"action, adventure, sc
 The Hunger Games: Mockingjay - Part 2,2015,sequel,nan,thriller,nan,66,70,65,67.5,67,102665981,102.67,7538507,7.54,371.7,371704359,379242866,379.24,160,237,64.17
 "The Hunger Games: Mockingjay, Part II",2015,sequel,nan,"action, adventure",nan,70,70,65,68,70,102665981,102.67,265885848,265.89,352.2,352200000,618085848,618,160,386.3,64.17
 The Hunt,2020,original screenplay,thriller,nan,Universal Pictures,66,57,50,54,65,5304455,5.3,5812500,5.8,6.6,6588479,12400979,12.4,18.2,68.14,29.12
-The Huntsman: WinterÃ¢ÂÂs War,2016,sequel,nan,Action,nan,47,17,35,26,51,19445035,19.45,48003015,48,116.6,116599148,164602163,164.6,115,143,16.91
+The Huntsman: WinterÃÂ¢ÃÂÃÂs War,2016,sequel,nan,Action,nan,47,17,35,26,51,19445035,19.45,48003015,48,116.6,116599148,164602163,164.6,115,143,16.91
 The Hurricane Heist,2018,original screenplay,nan,"thriller, suspense",nan,25,44,35,40,43,3024399,3,6115824,6,0,0,6115824,61,35,17.47,8.64
 The Hurt Locker ,2009,original screenplay,nan,"thriller, war",nan,83,97,94,96,71,140000,0.14,17010000,17.01,32.21,32210000,49220000,49.22,15,328.13,0.93
 The Hustle,2019,remake,nan,comedy,United Artists Releasing,45,14,35,25,35,13007709,13,35417038,35.4,59.6,59600000,95017038,95,21,452.46,61.9
@@ -1386,7 +1385,7 @@ The Invisible Man,2020,adaptation,horror,nan,Universal Pictures,88,92,72,82,69,2
 The Invitation,2022,nan,horror,"mystery, thriller",Sony Pictures,59,29,45,37,31,6805468,6.8,25100080,25.1,8.6,8589208,33689288,33.7,10,336.89,68.05
 The Iron Lady,2011,based on a true story,nan,"biography, history",nan,54,53,54,54,61,5410000,5.41,30017000,30.02,84.938,84938000,114955000,114.96,13,884.27,41.62
 The Joneses,2010,original screenplay,nan,"comedy, drama",nan,47,61,55,58,68,510000,0.51,1480000,1.48,0.49,490000,1970000,1.97,10,19.7,5.1
-The Judge,2014,original screenplayÃ,nan,drama,nan,73,47,48,48,71,13116226,13.12,47119388,47.12,36.6,36600000,83719388,84,50,167.44,26.23
+The Judge,2014,original screenplayÃÂ,nan,drama,nan,73,47,48,48,71,13116226,13.12,47119388,47.12,36.6,36600000,83719388,84,50,167.44,26.23
 The Jungle Book,2016,adaptation,nan,Adventure,nan,87,94,77,85.5,75,103261464,103.26,364001123,364,602.52,602521065,966522188,966.52,175,552,59.01
 The Karate Kid,2010,remake / reboot,nan,"action, family, sport",nan,75,66,61,64,68,55700000,55.7,176590000,176.59,182.53,182530000,359120000,359.12,40,897.8,139.25
 The Kid Who Would be King,2019,original screenplay,nan,"action, adventure, fantasy, family",20th Century Fox,64,90,66,78,59,7173887,7.2,16790790,16.8,12.9,12919249,29710039,29.7,59,50.36,12.2
@@ -1399,7 +1398,7 @@ The Kitchen,2019,adaptation,nan,drama,Warner Bros. Pictures,69,22,35,29,39,55274
 The Kite Runner,2007,adaptation,nan,drama,nan,84,66,61,64,79,471713,0.47,15800078,15.8,57.39,57393800,73193878,73,20,365.97,2.36
 The Kite Runner,2007,adaptation,nan,drama,nan,84,66,61,64,79,471713,0.47,15800078,15.8,57.39,57393800,73193878,73,20,365.97,2.36
 The LEGO Batman Movie,2017,sequel,nan,animation,nan,80,91,75,83,76,53003468,53,175750384,175.75,136.2,136200000,311950384,311.95,80,389.94,66.25
-The LEGO Movie,2014,original screenplayÃ,nan,"action, adventure, fantasy, comedy, animation, family",nan,87,96,83,90,82,69050279,69.05,257760692,257.76,211,211000000,468760692,469,60,781.27,115.08
+The LEGO Movie,2014,original screenplayÃÂ,nan,"action, adventure, fantasy, comedy, animation, family",nan,87,96,83,90,82,69050279,69.05,257760692,257.76,211,211000000,468760692,469,60,781.27,115.08
 The LEGO Movie 2: The Second Part,2019,sequel,nan,"action, adventure",Warner Bros. Pictures,72,86,65,76,70,34115335,34.1,105114150,105.1,79.8,79800000,184914150,184.9,99,186.78,34.44
 The LEGO Ninjago Movie,2017,sequel,nan,animation,nan,49,54,55,55,48,20433071,20.43,59281555,59.28,63.3,63300000,122581555,122.58,70,175.12,29.19
 The Last Airbender,2010,adaptation,nan,"action, adventure, fantasy",nan,42,6,20,13,27,40300000,40.3,131770000,131.77,187.94,187940000,319710000,319.71,150,213.14,26.87
@@ -1449,7 +1448,7 @@ The Nut Job,2014,adaptation,nan,"adventure, comedy, animation, family",nan,45,10
 The Nut Job 2: Nutty by Nature,2017,sequel,nan,animation,nan,44,9,36,23,39,8342311,8.34,28370522,28.37,36.82,36823191,65193713,65.19,40,162.98,20.86
 The Nutcracker and the Four Realms,2018,adaptation,nan,adventure,nan,36,34,39,37,47,20352491,20.4,54743921,55,118,117915111,172659032,1727,120,143.88,16.96
 The Other Guys,2010,original screenplay,nan,"action, comedy, crime",nan,57,78,64,71,67,35500000,35.5,119220000,119.22,51.21,51210000,170430000,170.43,100,170.43,35.5
-The Other Woman (2014),2014,original screenplayÃ,nan,"comedy, romance",nan,57,23,39,31,51,24763752,24.76,83911193,83.91,112.87,112870000,196781193,197,40,491.95,61.91
+The Other Woman (2014),2014,original screenplayÃÂ,nan,"comedy, romance",nan,57,23,39,31,51,24763752,24.76,83911193,83.91,112.87,112870000,196781193,197,40,491.95,61.91
 The Outfit,2022,nan,crime,"drama, mystery, thriller",Focus Features,92,85,69,77,71,1499730,1.5,3344040,3.3,0.7,698763,4042803,4,5,80.86,29.99
 The Peanut Butter Falcon,2019,original screenplay,nan,adventure,Roadside Attractions,96,95,70,83,78,204793,0.2,20437883,20.4,0.3,315805,20753688,20.8,6.2,334.74,3.23
 The Peanuts Movie,2015,adaptation,nan,animation,nan,81,86,67,77,83,44213073,44.21,127742629,127.74,44.6,44601164,172343793,172,99,174.08,44.66
@@ -1595,8 +1594,8 @@ Tyler Perry's Daddy's Little Girls,2007,original screenplay,nan,romantic comedy,
 Tyler Perry's Temptation,2013,adaptation,nan,Drama,nan,66,15,26,21,27,21641679,21.64,51975354,51.98,1.15,1150000,53125354,53,20,265.63,108.21
 Tyler Perry's Why Did I get Married,2007,adaptation,nan,comedy,nan,78,46,54,50,78,21353789,21.35,55204525,55.2,0.66,658361,55862886,56,15,372.42,142.36
 Tyler Perry's Why Did I get Married,2007,adaptation,nan,comedy,nan,78,46,54,50,78,21353789,21.35,55204525,55.2,0.66,658361,55862886,56,15,372.42,142.36
-Tyler PerryÃ¢ÂÂs Boo! A Madea Halloween,2016,original screenplay,nan,Comedy,nan,59,22,30,26,50,28501448,28.5,70537890,70.54,1.34,1338205,71876095,71.88,20,359,142.51
-TÃÂ¡r,2022,nan,drama,music,Focus Features,74,91,92,92,73,158620,0.2,6773650,6.8,22.4,22355424,29129074,29.1,25,116.52,0.63
+Tyler PerryÃÂ¢ÃÂÃÂs Boo! A Madea Halloween,2016,original screenplay,nan,Comedy,nan,59,22,30,26,50,28501448,28.5,70537890,70.54,1.34,1338205,71876095,71.88,20,359,142.51
+TÃÂÃÂ¡r,2022,nan,drama,music,Focus Features,74,91,92,92,73,158620,0.2,6773650,6.8,22.4,22355424,29129074,29.1,25,116.52,0.63
 UglyDolls,2019,original screenplay,nan,adventure,STX Entertainment,56,28,39,34,45,8603407,8.6,20150241,20.2,12.3,12300000,32450241,32.5,45,72.11,19.11
 Unbroken,2014,adaptation,nan,"action, biography, drama, history, sport, war",nan,71,51,59,55,64,30621445,30.62,115637895,115.64,45.82,45821402,161459297,161,65,248.4,47.11
 Uncharted,2022,nan,action,adventure,Sony Pictures,90,41,45,43,62,44010155,44,148648820,148.6,252,252041094,400689914,400.7,120,333.91,36.68
@@ -1655,9 +1654,9 @@ When the Bough Breaks,2016,original screenplay,nan,thriller,nan,49,6,28,17,23,14
 When the Game Stands Tall,2014,adaptation,nan,"drama, sport",nan,73,18,41,30,73,8381509,8,30127963,30,0,10949,30127963,30,15,200.85,55.88
 Where the Crawdads Sing,2022,nan,romance,"drama, mystery, thriller",Sony Pictures,96,35,43,39,65,17253227,17.3,90230760,90.2,46.3,46308792,136539552,136.5,24,568.91,71.89
 Where the Wild Things Are ,2009,adaptation,nan,"adventure, family ",nan,59,73,71,72,64,32700000,32.7,77230000,77.23,22.85,22850000,100080000,100.08,100,100.08,32.7
-WhereÃ¢ÂÂd You Go Bernadette,2019,adaptation,nan,comedy,Annapurna Pictures,74,49,51,50,65,3462308,3.5,9198356,9.2,0.9,894768,10093124,10.1,18,56.07,19.44
+WhereÃÂ¢ÃÂÃÂd You Go Bernadette,2019,adaptation,nan,comedy,Annapurna Pictures,74,49,51,50,65,3462308,3.5,9198356,9.2,0.9,894768,10093124,10.1,18,56.07,19.44
 Whip It ,2009,adaptation,nan,sport,nan,73,84,68,76,69,4700000,4.7,13000000,13,3.59,3590000,16000000,16,15,106.67,31.33
-Whiplash,2014,original screenplayÃ,nan,drama,nan,95,95,88,92,88,135388,0.14,13092000,13.09,0.9,901092,13993092,14,3.3,424.03,4.1
+Whiplash,2014,original screenplayÃÂ,nan,drama,nan,95,95,88,92,88,135388,0.14,13092000,13.09,0.9,901092,13993092,14,3.3,424.03,4.1
 Whiskey Tango Foxtrot,2016,based on a true story,nan,Comedy,nan,55,68,57,62.5,65,7450275,7.45,23083334,23.08,1.83,1832635,24915969,24.92,35,71,21.29
 White Boy Rick,2018,based on a true story,nan,"crime, drama",nan,53,60,59,60,65,8860431,8.9,24011188,24,0,77801,24088989,241,29,83.07,30.55
 White House Down,2013,original screenplay,nan,"Action, Drama, Thriller",nan,63,51,52,52,59,24852258,24.85,73103784,73.1,132.26,132262953,205366737,205,150,136.91,16.57
